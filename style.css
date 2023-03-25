@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color: rgb(47, 52, 55);
+    color: white;
+}
+#intro_img{
+    margin: 0;
+}
+#first_text{
+    padding: 15px;
+    font-size: small;
+}
+.mid{
+    margin: 40px 60px 20px 60px;
+}
+#main_intro_text{
+    font-size: 30px;
+}
+#self_appeal{
+    display: inline-block;
+}
+#my_self_img{
+    border-radius: 12px;
+    float:left;
+}
+#my_self_text{
+    margin-left: 100px;
+    display: inline-block;
+}
+.redi{
+    color: rgba(171, 171, 171, 1);
+}
+.text_box{
+    width: 100%-60px;
+    background-color: rgba(60, 65, 68, 1);
+    border-radius: 12px;
+    padding: 16px 16px 16px 12px;
+    padding: 20px; line-height: 160%;
+}
